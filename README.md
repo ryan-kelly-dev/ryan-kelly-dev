@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ryan-kelly-dev
-- 👀 I’m interested in Front End Web Development
+- 👀 I’m interested in software development
 - 🌱 I’m currently embracing the 100 Days of Code Challenge!
 - 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me - www.ryankelly.co.uk or www.twitter.com/ryankellydev
